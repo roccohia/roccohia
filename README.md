@@ -24,5 +24,9 @@ Technical sales–leaning builder who can scope, prototype, and ship automation/
 - Tech: TypeScript, Node.js, Python, React, SQL/MySQL, Playwright/Puppeteer
 - Working style: fast iteration, clear documentation, stakeholder-friendly communication
 
+### Portfolio
+- 👉 https://github.com/roccohia/portfolio
+
+
 ### Contact
 - Email: yurongxin@yahoo.com
